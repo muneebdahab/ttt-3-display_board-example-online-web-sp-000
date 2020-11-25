@@ -1,8 +1,8 @@
 def display_board
   puts "A Tic Tac Toe Board"
-  puts "   |   |   "
+  do puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
-  puts "   |   |   "
+  puts "   |   |   " end
 end
